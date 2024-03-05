@@ -25,7 +25,7 @@ To use this project template, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/flutter-project-template.git
+   git clone https://github.com/gouthamsivakumar1/demo.git
 2. Navigate to the project directory:
 
     ```bash
